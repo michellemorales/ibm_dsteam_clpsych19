@@ -24,3 +24,5 @@ If you use the code or approaches in the paper, we ask you to please cite our wo
     abstract = "This work presents the systems explored as part of the CLPsych 2019 Shared Task. More specifically, this work explores the promise of deep learning systems for suicide risk assessment.",
 }
 ```
+
+Thank you & happy coding!
