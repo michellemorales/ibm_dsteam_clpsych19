@@ -1,7 +1,7 @@
 ### CLPsych 2019 Shared Task
 ### IBM Data Science Team
 
-This repo contains code used in the submissions to the CLPsych 2019 Shared Task. Details can be found in the paper: [An Investigation of Deep Learning Systems for Suicide Risk Assessment](https://www.aclweb.org/anthology/W19-3023/)
+This repo contains code used in the submissions to the CLPsych 2019 Shared Task. Please note due to the sensitivity of the Shared Task this repo only contains code, it does not include data or the trained word vectors.  Details can be found in the paper: [An Investigation of Deep Learning Systems for Suicide Risk Assessment](https://www.aclweb.org/anthology/W19-3023/)
 
 If you use the code or approaches in the paper, we ask you to please cite our work:
 
